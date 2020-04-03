@@ -3,6 +3,8 @@ layout: post
 title: MWeb语法简介
 date: 2020-04-03
 tags: [linux]
+comments: true
+toc: true
 ---
 
 
